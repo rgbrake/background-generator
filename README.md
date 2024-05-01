@@ -1,2 +1,2 @@
 # background-generator
-Just learning
+Just learning.
